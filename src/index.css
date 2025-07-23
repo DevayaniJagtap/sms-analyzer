@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #0f172a;
+}
+textarea, button {
+  font-family: inherit;
+}
